@@ -1,0 +1,9 @@
+Dorm 1 5 6
+Physics 0 2 8
+Biology 1 3
+Occult_Research 2 4
+Construction_Site 3 5
+Goat_Farm 0 4
+Cafeteria 0 7
+Computing 6 8
+Economics 1 7
